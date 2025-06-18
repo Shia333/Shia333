@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Rattan Shia
 
-<!--
-**Shia333/Shia333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Passionate about Web Development & Python  
+🌱 Currently learning Django, APIs, and JavaScript  
+🛠️ Tech Stack: Python, HTML, CSS, MySQL, Git  
+🔭 Working on mini projects to build my skills  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shia-ratu-690755229) | [Gmail](rattanshia.rs07@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Projects
+
+- 💼 [Online Job Fair System]
+- 📘 [Library Management System in Python]
+
